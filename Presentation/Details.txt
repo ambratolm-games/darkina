@@ -1,0 +1,47 @@
+﻿[Details]
+
+[General]
+Title : Darkina
+Release Date : 2018
+Version : 1.0
+Languages : English
+Platform : Android
+File Size : ~0MB
+Author : Ambratolm
+Company : Elhafid Games
+
+[Description]
+Fight your way to exit in this intense explosive adventure.
+Darkina must travel between a millions of dark rooms to absorb dark powers.
+Your objective is to unlock the door by taking the yellow light ball and use it to exit and go for the next room.
+
+[How To Play]
+1. Reach and consomme the light ball to unlock and open the closed exit door.
+2. Once unlocked, go to the exit door to reach next room.
+3. Avoid getting touch with the roaming red devil or getting hit by his harmful fire balls.
+4. Use your powerful red shockwave attack to destroy anything near to you if you are stuck between blocks or if you want to kill the devil.
+5. Your shockwave attack consume mana points. Use it only if needed.
+6. Your health and mana regenrates slowly over time.
+7. Travel between different rooms, survive, and wisely use your ability to climb and reach top score ranks.
+
+[ToEdit]
+• Darkina has 3 powers she can use :
+1. Red Power : Unleashes a red wave that destroyes all nearby units including blocks, enemies and enemy projectiles.
+2. Blue Power : Unleashes a blue wave that turns you into a ghost.
+3. Green Power : Unleashes a green wave that turn nearby wall blocks into green wall blocks. green wall blocks are protective wall blacks that cannot be destroyed by enemies.
+
+[Credits]
+Game : Ambratolm
+Graphics : Ambratolm
+Audio : Ambratolm
+
+[Special Thanks]
+Mother
+Father
+Brother
+Sister
+
+[Copyright]
+Game 2018 Version 1.0 
+Copyright © 2018 Elhafid Games
+Game by	Ambratolm
