@@ -1,4 +1,4 @@
-#  <img src="./icon.png" alt="Icon" width="38" align="top" /> Darkina
+#  <img src="./icon.png" alt="Icon" width="48" align="top" /> Darkina
 
 <img src="./screenshot.gif?raw=true" alt="Screenshot" align="right">
 
